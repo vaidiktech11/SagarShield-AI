@@ -1,0 +1,6 @@
+{
+  "name": "SagarShield AI",
+  "description": "Predictive vulnerability and early-warning engine fusing IMD meteorological trajectories with Google Earth Engine elevation models to simulate cyclone storm surge inundation paths, powered by Gemini multimodal reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
